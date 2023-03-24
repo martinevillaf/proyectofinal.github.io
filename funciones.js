@@ -1,5 +1,5 @@
 
-
+ 
 
 document.getElementById("boton").addEventListener("click",function(){
     console.log("Cambia la visualizacion a modo oscuro")
